@@ -1,4 +1,4 @@
-OpenZeppelin公司开源了openzeppelin-contracts项目：https://github.com/OpenZeppelin/openzeppelin-contracts。这是一个Solidity智能合约的库，已经有1.7万星了。
+OpenZeppelin公司开源了openzeppelin-contracts项目：https://github.com/OpenZeppelin/openzeppelin-contracts 。这是一个Solidity智能合约的库，已经有1.7万星了。
 
 基于这个库开发以太坊代币，大概可以在10分钟搞定，非常方便。以4.6版本为例，有如下几步：
 
