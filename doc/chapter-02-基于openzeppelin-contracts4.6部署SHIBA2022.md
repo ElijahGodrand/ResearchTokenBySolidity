@@ -3,9 +3,13 @@ OpenZeppelin公司开源了openzeppelin-contracts项目：https://github.com/Ope
 基于这个库开发以太坊代币，大概可以在10分钟搞定，非常方便。以4.6版本为例，有如下几步：
 
 1.在Remix的主界面，以“load from github”方式导入如下4个文件：
+
 https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/IERC20.sol
+
 https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/extensions/IERC20Metadata.sol
+
 https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/Context.sol
+
 https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol
 
 注意：导入后，检查每个文件的import，看看是否有被遗漏的文件；各文件的solidity的版本要一致。
